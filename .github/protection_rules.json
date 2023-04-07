@@ -1,0 +1,10 @@
+{
+  "pattern": "main",
+  "requiresApprovingReviews": true,
+  "requiredApprovingReviewCount": 1,
+  "requiresCodeOwnerReviews": false,
+  "allowsForcePushes": false,
+  "allowsDeletions": false,
+  "restrictsPushes": false,
+  "restrictsReviewDismissals": false
+}
