@@ -1,6 +1,6 @@
 {
   "pattern": "main",
-  "requiresApprovingReviews": true,
+  "requiresApprovingReviews": false,
   "requiredApprovingReviewCount": 1,
   "requiresCodeOwnerReviews": false,
   "allowsForcePushes": false,
